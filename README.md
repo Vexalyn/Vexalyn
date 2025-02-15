@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://count.getloli.com/@Vexalyn" />
+  <img src="https://count.getloli.com/@Vexalyn?darkmode=0" />
   <br><br>
 
   <h2>Languages I know</h2>
